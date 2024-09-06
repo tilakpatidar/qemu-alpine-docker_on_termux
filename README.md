@@ -11,7 +11,7 @@ This is a automatic installation script. As memory is always short, we also inst
 
 
 ```bash
-$ curl -o termux-setup.sh https://raw.githubusercontent.com/tilakpatidar/qemu-alpine-docker_on_termux/master/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
+$ curl -o termux-setup.sh https://raw.githubusercontent.com/tilakpatidar/qemu-alpine-docker_on_termux/main/termux-setup.sh && chmod 755 ./termux-setup.sh && ./termux-setup.sh
 ```
 
 
@@ -19,13 +19,13 @@ $ curl -o termux-setup.sh https://raw.githubusercontent.com/tilakpatidar/qemu-al
 
 
 ```bash
-$ curl -o pi-setup.sh https://raw.githubusercontent.com/tilakpatidar/docker-qemu-arm/master/pi-setup.sh && chmod 755 ./pi-setup.sh && ./pi-setup.sh
+$ curl -o pi-setup.sh https://raw.githubusercontent.com/tilakpatidar/docker-qemu-arm/main/pi-setup.sh && chmod 755 ./pi-setup.sh && ./pi-setup.sh
 ```
 
 ##  Fedora ARM
 
 ```bash
-$ curl -o fedora-arm-setup.sh https://raw.githubusercontent.com/tilakpatidar/docker-qemu-arm/master/fedora-arm-setup.sh && chmod 755 ./fedora-arm-setup.sh && ./fedora-arm-setup.sh
+$ curl -o fedora-arm-setup.sh https://raw.githubusercontent.com/tilakpatidar/docker-qemu-arm/main/fedora-arm-setup.sh && chmod 755 ./fedora-arm-setup.sh && ./fedora-arm-setup.sh
 ```
 
 
