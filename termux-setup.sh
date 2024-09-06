@@ -1,7 +1,7 @@
-export URL=https://raw.githubusercontent.com/egandro/docker-qemu-arm
+export URL=https://raw.githubusercontent.com/tilakpatidar/docker-qemu-arm
 export BRANCH=master
 
-pkg install -y expect wget qemu-utils qemu-common qemu-system-x86_64-headless openssh
+pkg install -y expect wget qemu-utils qemu-common qemu-system-aarch64-headless openssh
 
 mkdir -p alpine
 cd alpine
