@@ -1,5 +1,5 @@
 export URL=https://raw.githubusercontent.com/tilakpatidar/qemu-alpine-docker_on_termux
-export BRANCH=master
+export BRANCH=main
 
 pkg install -y expect wget qemu-utils qemu-common qemu-system-aarch64-headless openssh
 
